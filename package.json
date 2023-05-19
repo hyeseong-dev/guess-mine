@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Realtim Drawing Game Built With socketIO Gulp and Nod",
   "main": "src/server.js",
+  "type": "module",
   "repository": "https://github.com/hyeseong-dev/guess-mine.git",
   "license": "MIT",
   "dependencies": {
