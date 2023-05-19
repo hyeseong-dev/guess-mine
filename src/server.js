@@ -21,7 +21,7 @@ const handleListening = () =>
 
 const server = app.listen(PORT, handleListening);
 
-const io = Server(server);
+const io = new Server(server);
 
 let sockets = [];
 
