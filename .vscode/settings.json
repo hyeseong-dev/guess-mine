@@ -1,0 +1,9 @@
+{
+    // "powermode.presets":"particles" 	 // 물방울(기본)
+    // "powermode.presets":"magic" 		 // 펑펑펑(?)
+    // "powermode.presets":"clippy" 		 // 클립 
+    // "powermode.presets":"flames" 		 // 불꽃
+    "powermode.presets":"fireworks" 	 // 불꽃놀이
+    // "powermode.presets":"simple-rift"	 // (?)
+    // "powermode.presets":"exploding-rift"	 // 번쩍번쩍(?)
+}
